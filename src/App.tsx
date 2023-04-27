@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Test: Look at us learning React PWAs!
         </a>
       </header>
     </div>
